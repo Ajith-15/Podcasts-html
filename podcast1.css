@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 100vh;
+    background-size: cover;
+    margin: 10px;
+    width: 480px;
+}
+
+.sidehead {
+    color: #5a7184;
+    font-family: Roboto;
+    text-align: left;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.podu {
+    color: white;
+    text-align: left;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.imgs {
+    margin: 10px;
+    height: 300px;
+
+    width: 450px;
+}
+
+.mainname {
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+
+.simg {
+    margin: 20px;
+    height: 150px;
+    width: 190px;
+}
+
+.simpleText {
+    color: #5a7184;
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+.mainbox {
+    background-color: #151765;
+    width: 580px;
+}
+
+.indiimg {
+    margin-block-start: 40px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    height: 190px;
+}
+
+.podtext {
+    color: white;
+    text-align: left;
+    padding: 40px;
+    font-size: 12px;
+}
+
+.al {
+    text-align: left;
+    font-size: 12px;
+    padding: 40px;
+    width: 580px;
+}
+
+.simpleTextag {
+    color: #5a7184;
+}
+
+.mainnameag {
+    font-weight: bold;
+    color: #151765;
+    font-size: 30px;
+}
+
+.mainnameag1 {
+    font-weight: bold;
+    color: #151765;
+    font-size: 22px;
+}
+
+.dur {
+    font-weight: bold;
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.button {
+    background-color: #151765;
+    color: white;
+    border-radius: 20px;
+}
